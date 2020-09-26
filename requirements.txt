@@ -1,0 +1,5 @@
+entropy-store == 16.1.0
+numpy == 1.17.2
+pandas == 0.24.2
+scikit_learn == 0.21.3
+wallpaperentropy == 0.1.0
